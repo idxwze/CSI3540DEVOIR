@@ -4,7 +4,7 @@
 **Livrable :** Page personnelle en HTML
 
 ## Lien
-- URL : (colle ici ton lien)
+- URL : https://idxwze.github.io/CSI3540DEVOIR
 
 ## Choix d’hébergement
 J’ai choisi GitHub Pages car c’est gratuit, simple à configurer et adapté aux sites statiques en HTML.
